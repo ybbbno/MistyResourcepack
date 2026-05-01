@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "mysty:item/gagarin_boots_icon"
+    }
+}

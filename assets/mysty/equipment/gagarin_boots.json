@@ -1,0 +1,9 @@
+{
+    "layers": {
+        "humanoid": [
+            {
+                "texture": "mysty:gagarin_boots"
+            }
+        ]
+    }
+}
