@@ -1,0 +1,12 @@
+{
+  "medicinemodule.item.syringe.name": "Syringe",
+  "medicinemodule.item.syringe.description": "Cold and shiny",
+  "medicinemodule.item.syringe.description.blood_type": "%s liquid inside",
+  "medicinemodule.blood.type.humanoid": "Redish",
+  "medicinemodule.blood.type.animal": "Pinkish",
+  "medicinemodule.blood.type.monster": "Greenish",
+  "medicinemodule.blood.type.otherworldly": "Bluish",
+  "medicinemodule.blood.infected": "There's %s floating inside",
+  "medicinemodule.blood.infected.medium": "something",
+  "medicinemodule.player.infected": "You feel something spreading throughout your body"
+}

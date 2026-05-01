@@ -1,0 +1,12 @@
+{
+  "medicinemodule.item.syringe.name": "Шприц",
+  "medicinemodule.item.syringe.description": "Холодный и блестит",
+  "medicinemodule.item.syringe.description.blood_type": "%s жидкость внутри",
+  "medicinemodule.blood.type.humanoid": "Кросноватая",
+  "medicinemodule.blood.type.animal": "Розоватая",
+  "medicinemodule.blood.type.monster": "Зеленоватая",
+  "medicinemodule.blood.type.otherworldly": "Голубоватая",
+  "medicinemodule.blood.infected": "Внутри %s плавает",
+  "medicinemodule.blood.infected.medium": "что-то",
+  "medicinemodule.player.infected": "Вы чувствуете как что-то распространяется по вашему телу"
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "medicinemodule:item/syringe_animal",
+    "layer1": "medicinemodule:item/syringe_overlay"
+  }
+}
