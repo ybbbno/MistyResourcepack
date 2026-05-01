@@ -11,6 +11,13 @@
 			"type": "minecraft:model",
 			"model": "ksepsp:item/9_0/weapons/mace/market_gardener"
 		}
+	},
+	{
+		"when": ["Посох Созидателя"],
+		"model": {
+			"type": "minecraft:model",
+			"model": "ksepsp:item/9_0/weapons/sword/monolith_staff"
+		}
 	}
     ],
 	"fallback": {

@@ -12,6 +12,13 @@
 			"model": "ksepsp:item/9_0/weapons/sword/diamond_dagger"
 		}
 	},
+		{
+		"when": ["Складной стул", "Folded chair"],
+		"model": {
+			"type": "minecraft:model",
+			"model": "ksepsp:item/9_0/weapons/sword/folded_chair"
+		}
+	},
 	{
 		"when": ["Broadsword", "Палаш"],
 		"model": {
