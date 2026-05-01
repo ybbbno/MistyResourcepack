@@ -1039,13 +1039,6 @@
 		}
 	},
 	{
-		"when": ["Hazmat Headcase", "Головной комплект химзащиты"],
-		"model": {
-			"type": "minecraft:model",
-			"model": "ksepsp:item/8_0/hats/haz_mask"
-		}
-	},
-	{
 		"when": ["Last Breath", "Последний вздох"],
 		"model": {
 			"type": "minecraft:model",
@@ -1757,13 +1750,6 @@
 		"model": {
 			"type": "minecraft:model",
 			"model": "ksepsp:item/8_0/hats/reggilator"
-		}
-	},
-	{
-		"when": ["Respirator", "Респиратор"],
-		"model": {
-			"type": "minecraft:model",
-			"model": "ksepsp:item/8_0/hats/resp"
 		}
 	},
 	{
